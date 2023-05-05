@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(251, 253, 238);
+}
+
+.linkbar {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.paragraph {
+  font-size: 18px;
+}
+
+.date {
+  font-size: 20px;
+}
+
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+iframe {
+  display: inline-block;
+  width: 50%;
+}
